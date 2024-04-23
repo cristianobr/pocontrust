@@ -8,7 +8,17 @@
             "cod_contrato": 12345,
             "valor_contrato": "50000.00",
             "termos_princ_contrato": "Contrato de Exemplo"
+        },
+        {
+            "nome_contrato": "Contrato2",
+            "tipo_contrato": "Exemplo",
+            "data_vencimento_contrato": 1743465600,
+            "fornecedor_principal": "Vendor2",
+            "cod_contrato": 12388,
+            "valor_contrato": "50000.00",
+            "termos_princ_contrato": "Contrato de Exemplo"
         }
+
 
     ]
 

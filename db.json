@@ -1,0 +1,15 @@
+{
+    "contratos":[
+        {
+            "nome_contrato": "Contrato1",
+            "tipo_contrato": "Exemplo",
+            "data_vencimento_contrato": 1743465600,
+            "fornecedor_principal": "Vendor",
+            "cod_contrato": 12345,
+            "valor_contrato": "50000.00",
+            "termos_princ_contrato": "Contrato de Exemplo"
+        }
+
+    ]
+
+}
